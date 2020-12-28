@@ -1,2 +1,2 @@
 This is just a random script (but with conflict)
-new modification on master branch (remote)
+new modification on master branch (yet another conflcit)
