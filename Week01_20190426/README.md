@@ -1,2 +1,5 @@
 # Week 01
-This will incur conflict
+Conflict resolved!
+Test Script
+Additional Info
+
