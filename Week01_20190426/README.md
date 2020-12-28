@@ -2,4 +2,4 @@
 Conflict resolved!
 Test Script
 Another conflict from here
-
+New info

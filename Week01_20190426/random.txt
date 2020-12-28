@@ -1,2 +1,3 @@
-This is just a random script (but with conflict)
-new modification on master branch (yet another conflcit)
+This is just a random script 
+new modification on master branch
+New!!
